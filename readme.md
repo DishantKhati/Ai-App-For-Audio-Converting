@@ -1,19 +1,26 @@
-**Libraries Used**
+# Dhvani App
 
-*gTTS* -  (Google Text-to-Speech) is a Python library and CLI tool to interface with Google Translate's text-to-speech API.
-
-*tkinter* -  is the standard Python interface to the Tcl/Tk GUI toolkit.
+Dhwani App is a Python based software which converts the Text to Audio and returns the output to the user in a GUI based application.
 
 
-**How to use ?**
 
--->>To check Python
-  python --version
+## Installation
 
--->To check pip
-  pip -V
+myobj.save("D:\\AiSaves\\welcome.mp3")
+os.system("D:\\AiSaves\\welcome.mp3")
 
-**Install these Libraries**
+Change the location as per your need!
 
-  pip install tk
-  pip install gTTS
+## Python Version
+
+3.11
+## Libraries Used
+
+``pip install gtts``
+
+``pip install tk``
+## Authors
+
+- [@DivyanshuChaurasiya](https://www.github.com/divyanshu960)
+
+- [@DishantKhati](https://github.com/KNIGHTUNITYDK)
